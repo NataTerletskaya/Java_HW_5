@@ -1,0 +1,5 @@
+package currencyExchange.enums;
+
+public enum OperationStep {
+	START, SELECT_OPERATION, SELECT_CURRENCY_FROM, SELECT_SUM, SELECT_CURRENCY_TO, RESULT, CONTINUE, END
+}
